@@ -10,7 +10,7 @@
 
 
 ## 場所
-35.499985, 138.754529
+35.499935, 138.754537
 
 
 ```geojson
@@ -21,7 +21,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [138.754529, 35.499985]
+        "coordinates": [138.754537, 35.499935]
       },
       "properties": {}
     }
